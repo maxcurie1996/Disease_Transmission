@@ -5,7 +5,7 @@ import pandas as pd
 
 
 
-path="Lower/N_scan/"
+path="Data/N_scan/"
 data=pd.read_csv(path+'COVID_02.csv')  
 
 plt.clf()

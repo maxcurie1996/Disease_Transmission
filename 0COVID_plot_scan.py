@@ -8,7 +8,7 @@ for i in range(1,11):
 #for i in i_list:
 	Title="Vaccination rate"
 	#Title="Neighbor"
-	path="Lower/V_scan/"
+	path="Data/V_scan/"
 	if i<10:
 		suffix="_0"+str(i)
 	else:
